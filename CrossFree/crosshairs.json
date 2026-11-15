@@ -1,0 +1,91 @@
+{
+  "BgOpacity": 0.4,
+  "OverlayActive": true,
+  "SelectedCrosshair": "fiks",
+  "Crosshairs": [
+    {
+      "Name": "CLASSIC",
+      "Shape": "Cross",
+      "Size": 28,
+      "Thickness": 2,
+      "Gap": 6,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#00E5FF",
+      "IsCustom": false
+    },
+    {
+      "Name": "DOT",
+      "Shape": "Dot",
+      "Size": 16,
+      "Thickness": 2,
+      "Gap": 0,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#00FF66",
+      "IsCustom": false
+    },
+    {
+      "Name": "CIRCLE",
+      "Shape": "Circle",
+      "Size": 26,
+      "Thickness": 2,
+      "Gap": 0,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#FFD700",
+      "IsCustom": false
+    },
+    {
+      "Name": "DIAMOND",
+      "Shape": "Diamond",
+      "Size": 24,
+      "Thickness": 2,
+      "Gap": 0,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#FF5E8E",
+      "IsCustom": false
+    },
+    {
+      "Name": "SNIPER",
+      "Shape": "Sniper",
+      "Size": 48,
+      "Thickness": 2,
+      "Gap": 8,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": true,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#A288FF",
+      "IsCustom": false
+    },
+    {
+      "Name": "fiks",
+      "Shape": "Cross",
+      "Size": 14,
+      "Thickness": 2,
+      "Gap": 0,
+      "Outline": true,
+      "Glow": false,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#FFFFFF",
+      "IsCustom": true
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "BgOpacity": 0.07295597484276743,
+  "OverlayActive": true,
+  "SelectedCrosshair": "fiks",
+  "FirstRunDone": true,
+  "BackgroundPath": null,
+  "BackgroundName": null,
+  "BackgroundOpacity": 0.8560344827586209,
+  "BackgroundBlur": 0,
+  "Active": {
+    "Name": "fiks",
+    "Shape": "Cross",
+    "Size": 14,
+    "Thickness": 2,
+    "Gap": 0,
+    "Outline": true,
+    "Glow": false,
+    "CenterDot": false,
+    "OffsetX": 0,
+    "OffsetY": 0,
+    "Color": "#FFFFFF",
+    "IsCustom": true
+  },
+  "Crosshairs": [
+    {
+      "Name": "fiks",
+      "Shape": "Cross",
+      "Size": 14,
+      "Thickness": 2,
+      "Gap": 0,
+      "Outline": true,
+      "Glow": false,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#FFFFFF",
+      "IsCustom": true
+    },
+    {
+      "Name": "CLASSIC \u2013 moje",
+      "Shape": "Cross",
+      "Size": 28,
+      "Thickness": 2,
+      "Gap": 6,
+      "Outline": true,
+      "Glow": true,
+      "CenterDot": false,
+      "OffsetX": 0,
+      "OffsetY": 0,
+      "Color": "#00E5FF",
+      "IsCustom": true
+    }
+  ]
+}
