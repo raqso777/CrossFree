@@ -36,11 +36,16 @@
 3. Run the executable (`WpfApp1.exe`).
 4. Toggle the **Celownik (Crosshair)** switch in the top-right corner and launch your game in **Borderless Windowed** mode.
 
+<br>
+
 #### Option 2: Build from Source (Developers)
 **Requirements:** Windows 10/11 and [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
+<br>
+
 ---
 
+<br>
 <a id="polski"></a>
 ## 🇵🇱 Polski
 
