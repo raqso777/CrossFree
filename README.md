@@ -26,7 +26,6 @@
 
 ### 📸 Preview
 
-> *Add your screenshot to the repository (e.g. `screenshot.png`) and uncomment the line below:*
 > `![CrossFree Preview](screenshot.png)`
 
 ### 🚀 Getting Started
@@ -34,7 +33,7 @@
 #### Option 1: Download & Run (Users)
 1. Go to the [**Releases**](../../releases) section on the right.
 2. Download the latest `CrossFree` release archive and extract it.
-3. Run the executable (`CrossFree.exe`).
+3. Run the executable (`WpfApp1.exe`).
 4. Toggle the **Celownik (Crosshair)** switch in the top-right corner and launch your game in **Borderless Windowed** mode.
 
 #### Option 2: Build from Source (Developers)
@@ -71,7 +70,6 @@
 
 ### 📸 Podgląd
 
-> *Dodaj swój zrzut ekranu do repozytorium (np. `screenshot.png`) i usuń znak `>` z linii poniżej:*
 > `![Podgląd CrossFree](screenshot.png)`
 
 ### 🚀 Jak zacząć
@@ -80,13 +78,10 @@
 1. Przejdź do sekcji [**Releases**](../../releases) po prawej stronie.
 
 2. Pobierz najnowsze archiwum `CrossFree` i je wypakuj.
-3. Uruchom plik wykonywalny (`CrossFree.exe`).
+3. Uruchom plik wykonywalny (`WpfApp1.exe`).
 4. Włącz przełącznik **Celownik (Crosshair)** w prawym górnym rogu i uruchom grę w trybie **okna bez ramek (Borderless Windowed)**.
 
 #### Opcja 2: Kompilacja ze źródeł (Programiści)
 **Wymagania:** Windows 10/11 oraz [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone [https://github.com/raqso777/CrossFree.git](https://github.com/raqso777/CrossFree.git)
-cd CrossFree
-dotnet run
