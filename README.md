@@ -40,6 +40,52 @@
 #### Option 2: Build from Source (Developers)
 **Requirements:** Windows 10/11 and [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
+---
+
+<a id="polski"></a>
+## 🇵🇱 Polski
+
+**CrossFree** to darmowy, lekki program typu crosshair overlay (open-source) dla gier na systemie Windows. Zbudowany w C# i WPF (.NET 10), wyświetla płynny celownik na wierzchu ekranu w trybie *click-through*, nie zakłócając rozgrywki ani sterowania myszą.
+
+### ✨ Główne funkcje
+
+- **5 wbudowanych kształtów celownika:** Wybieraj spośród stylów `Cross` (krzyżyk), `Dot` (kropka), `Circle` (okrąg), `Diamond` (romb) oraz `Sniper` (luneta).
+
+- **Personalizacja na żywo:** Dostosuj rozmiar, grubość linii, przerwę środkową, przesunięcie na ekranie (oś X/Y), czarny obrys, neonową poświatę, kropkę na środku oraz dowolny kolor HEX (z gotowymi próbkami kolorów i podglądem na żywo).
+
+- **Własne profile (Custom):** Zapisuj nielimitowaną liczbę własnych celowników, nadpisuj istniejące lub przywracaj ustawienia domyślne — wszystko automatycznie zapisuje się w pliku `crosshairs.json`.
+
+- **Presety do gier (zakładka `GAME`):** Gotowe do użycia zestawy inspirowane ustawieniami pro graczy oraz popularnymi konfiguracjami dla:
+
+  * **CS2** (*Pro Green*, *Pro Cyan*, *Pro Yellow*, *Classic Outline*)
+  * **Valorant** (*TenZ Plus*, *Clean White*, *Green + Dot*)
+  * **Fortnite** (*Neon Dot*, *Button*, *Static Cross*)
+  * **FiveM / GTA RP** (*RP Dot*, *Red Dot*, *PvP Cross*)
+  * **Inne** (*Sniper*)
+- **Własne tło aplikacji i interfejs matowego szkła:** Wgraj własną tapetę (`PNG`, `JPG`, `BMP`, `GIF`, `TIFF`) i dopasuj przezroczystość tła oraz rozmycie Gaussa paneli w czasie rzeczywistym.
+
+- **Nakładka Click-Through i zasobnik systemowy:** Wykorzystuje rozszerzone style okien Win32 (`WS_EX_TRANSPARENT`, `WS_EX_NOACTIVATE`), dzięki czemu kliknięcia przechodzą bezpośrednio do gry. Zminimalizuj panel do zasobnika systemowego (przy zegarze), utrzymując aktywny celownik.
+
+- **Interaktywny samouczek na start:** Wbudowany przewodnik krok po kroku przy pierwszym uruchomieniu (możliwy do ponownego otwarcia w dowolnym momencie w Ustawieniach).
+
+
+### 📸 Podgląd
+
+> *Dodaj swój zrzut ekranu do repozytorium (np. `screenshot.png`) i usuń znak `>` z linii poniżej:*
+> `![Podgląd CrossFree](screenshot.png)`
+
+### 🚀 Jak zacząć
+
+#### Opcja 1: Pobierz i uruchom (Użytkownicy)
+1. Przejdź do sekcji [**Releases**](../../releases) po prawej stronie.
+
+2. Pobierz najnowsze archiwum `CrossFree` i je wypakuj.
+3. Uruchom plik wykonywalny (`CrossFree.exe`).
+4. Włącz przełącznik **Celownik (Crosshair)** w prawym górnym rogu i uruchom grę w trybie **okna bez ramek (Borderless Windowed)**.
+
+#### Opcja 2: Kompilacja ze źródeł (Programiści)
+**Wymagania:** Windows 10/11 oraz [.NET 10 SDK](https://dotnet.microsoft.com/download).
+
 ```bash
 git clone [https://github.com/raqso777/CrossFree.git](https://github.com/raqso777/CrossFree.git)
 cd CrossFree
