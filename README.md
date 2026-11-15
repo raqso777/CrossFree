@@ -26,7 +26,7 @@
 
 ### 📸 Preview
 
-> `![CrossFree Preview](screenshot.png)`
+> `<img width="1021" height="679" alt="obraz" src="https://github.com/user-attachments/assets/fd535704-5b30-4dc9-8080-39d57a2e213f" />`
 
 ### 🚀 Getting Started
 
@@ -70,7 +70,7 @@
 
 ### 📸 Podgląd
 
-> `![Podgląd CrossFree](screenshot.png)`
+> `<img width="1021" height="679" alt="obraz" src="https://github.com/user-attachments/assets/fd535704-5b30-4dc9-8080-39d57a2e213f" />`
 
 ### 🚀 Jak zacząć
 
