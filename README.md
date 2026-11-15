@@ -43,9 +43,12 @@
 
 <br>
 
----
+
 
 <br>
+
+---
+
 <a id="polski"></a>
 ## 🇵🇱 Polski
 
