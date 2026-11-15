@@ -1,9 +1,10 @@
 # CrossFree v1.0
 
-**Language / Język:** [🇬🇧 English](#-english) | [🇵🇱 Polski](#-polski)
+**Language / Język:** [🇬🇧 English](#english) | [🇵🇱 Polski](#polski)
 
 ---
 
+<a id="english"></a>
 ## 🇬🇧 English
 
 **CrossFree** is a free, lightweight, open-source custom crosshair overlay for Windows games. Built with C# and WPF (.NET 10), it renders a smooth, click-through crosshair on top of your screen without interfering with gameplay or mouse input.
